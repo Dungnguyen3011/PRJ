@@ -335,6 +335,7 @@ public class DAO {
         DAO dao=new DAO();
         List<Product> list=dao.getAllProduct();    
     }
+    String ao;
 }
 
    
